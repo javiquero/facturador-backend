@@ -28,8 +28,8 @@ module.exports.custom = {
   emailProofTokenTTL:    24*60*60*1000,// 24 hours
   accessTokenTTL: 24 * 60 * 60 * 1000,// 24 hours
 
-  mailgunDomain: 'sandbox8ccda7ebeb1e4d18a9ea04379bbac6eb.mailgun.org',
-  mailgunSecret: '7cb5de11956b9111a8fae8608872adbe-059e099e-b1e2e524',
+  mailgunDomain: 'XXXX',
+  mailgunSecret: 'XXXX',
 
   fromEmailAddress: 'noreply@facturador.com',
   fromName: 'The Facturador Team',
